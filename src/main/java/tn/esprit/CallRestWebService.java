@@ -21,6 +21,7 @@ import org.json.JSONObject;
 
 public class CallRestWebService {
 	// le 2 eme commit
+	//le 3 eme commit dans ws_management
 
 	public static final String endpoint = "http://ip-api.com/json";
 	//public static final String endpoint = "https://httpbin.org/get";
